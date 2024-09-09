@@ -1,2 +1,2 @@
 # LinkedListImplementation
-A custom implementation of a singly linked list with operations for insertion, deletion, searching, and advanced features like reversal and sorting.
+This project is a custom implementation of a singly linked list, featuring operations like insertion, deletion, searching, and advanced functionalities such as list reversal and sorting.
